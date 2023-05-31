@@ -3,7 +3,7 @@ spring:
     name: rental-service
   datasource:
     username: postgres
-    password: '12345'
+    password: '1453'
     url: jdbc:postgresql://localhost:5432/rentaldb-t2
   jpa:
     properties:
